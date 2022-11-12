@@ -1,1 +1,3 @@
-# book-system-admin-python
+# 시스템 네트워크 관리자를 위한 파이썬 실무 프로그래밍
+
+## Chapter 01 - 시스템/네트워크 업무 개론
